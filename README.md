@@ -1,10 +1,27 @@
-# egg_heads
-
-An API to help you decide what to make for breakfast, lunch and dinner.
-
-## Roadmap: 
-
 ```https://egg-heads.herokuapp.com/```
+
+# Summary
+Ever wonder what you can make with what you have in your kitchen and wish a chef could tell you? Here you go.
+Egg-heads is a three person backend project made over the course of 3 days which allows users to add ingredients to their 'fridge' and have matching Chef-level usermade recipes returned which use their ingredients. Complete with protected routes and users with different priveleges.
+
+* Note: Creating a front end for this project is an upcoming project.
+
+## Technical Stack
+* Javascript 
+* Node
+* Express
+* MongoDB/Mongoose
+* MLab
+* Heroku 
+
+## Team
+* Nicky Evers
+* Yuval Allweil
+* Morgan Fogarty
+
+## To Run
+- Download Postman or open through browser
+https://www.getpostman.com/apps
 
 ### Chef workflow:
 
@@ -107,9 +124,3 @@ An API to help you decide what to make for breakfast, lunch and dinner.
         ```js
         { "meal": "<mealID>" }
         ```
-
-## Authors
-
-- Yuval Allweil
-- Nicky Evers
-- Morgan Fogarty     
