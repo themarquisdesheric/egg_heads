@@ -1,8 +1,8 @@
 ```https://egg-heads.herokuapp.com/```
 
 # Summary
-Ever wonder what you can make with what you have in your kitchen and wish a chef could tell you? Here you go.
-Egg-heads is a three person backend project made over the course of 3 days which allows users to add ingredients to their 'fridge' and have matching Chef-level usermade recipes returned which use their ingredients. Complete with protected routes and users with different priveleges.
+Ever wonder what you can make with what you have in your kitchen and wish a chef could tell you? Here you go!
+Egg-heads is a three person backend project made over the course of 3 days which allows users to add ingredients to their 'fridge' and have recipes returned which match their ingredients. Complete user authentication for regular users and 'chefs'. 
 
 * Note: Creating a front end for this project is an upcoming project.
 
@@ -11,7 +11,7 @@ Egg-heads is a three person backend project made over the course of 3 days which
 * Node
 * Express
 * MongoDB/Mongoose
-* MLab
+* mLab
 * Heroku 
 
 ## Team
